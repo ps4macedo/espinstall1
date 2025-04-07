@@ -1,0 +1,7 @@
+{
+  "name": "PS4MACEDO JAILBREAK",
+  "version": "GoldHEN v2.4b18.3 + PSFREE",
+  "builds": [
+    { "chipFamily": "ESP32-S2","parts": [{ "path": "ESP32-S2_GHENv2.4b18.bin", "offset": 0 }]}
+  ]
+}
